@@ -70,7 +70,7 @@ const About = () => {
                     >
                         <div className="relative z-10 aspect-[4/5] rounded-3xl overflow-hidden shadow-[0_20px_50px_rgba(0,0,0,0.5)] border border-white/10 group">
                             <img
-                                src="https://images.unsplash.com/photo-1503387762-592dea58ef23?q=80&w=2070&auto=format&fit=crop"
+                                src="/construction_site.png"
                                 alt="Construction Excellence"
                                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
                             />

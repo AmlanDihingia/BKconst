@@ -15,7 +15,7 @@ const services = [
         title: 'Residential Construction',
         description: 'Building high-quality homes with precision, durability, and modern design standards.',
         icon: HardHat,
-        image: 'https://images.unsplash.com/photo-1503387762-592dea58ef23?auto=format&fit=crop&q=80&w=1000',
+        image: '/residential_construction.png',
     },
     {
         title: 'Commercial Projects',
@@ -39,7 +39,7 @@ const services = [
         title: 'Infrastructure Development',
         description: 'Specializing in road construction and large-scale infrastructure projects.',
         icon: Map,
-        image: 'https://images.unsplash.com/photo-1541888946425-d81bb19480c5?auto=format&fit=crop&q=80&w=1000',
+        image: '/infrastructure.png',
     },
 ];
 
