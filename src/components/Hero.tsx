@@ -6,7 +6,7 @@ import Link from 'next/link';
 
 const Hero = () => {
     return (
-        <section className="relative min-h-[100dvh] w-full flex items-center justify-center overflow-hidden">
+        <section className="relative min-h-[100dvh] w-full flex items-center justify-center overflow-hidden pt-32 pb-12 md:pt-0 md:pb-0">
             {/* Background Image with Overlay */}
             <div
                 className="absolute inset-0 z-0 bg-cover bg-center bg-no-repeat transition-transform duration-1000 hover:scale-105"
