@@ -23,7 +23,7 @@ const About = () => {
                             Our Legacy
                         </h2>
                         <h3 className="text-4xl md:text-6xl font-bold text-white mb-10 leading-tight">
-                            Excellence in Every <br /> <span className="gradient-text">Square Foot</span>
+                            Excellence in Every bit <br /> <span className="gradient-text">Square Foot</span>
                         </h3>
                         <p className="text-gray-400 text-lg mb-8 leading-relaxed font-light">
                             We are a dedicated and trusted construction company committed to delivering high-quality building solutions. With strong experience in <span className="text-white font-medium">residential</span>, <span className="text-white font-medium">commercial</span>, and <span className="text-white font-medium">infrastructure</span> projects, we focus on excellence, safety, and timely completion.
