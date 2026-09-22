@@ -19,9 +19,7 @@ const About = () => {
                         transition={{ duration: 1, type: 'spring', damping: 20 }}
                         className="order-2 lg:order-1"
                     >
-                        <h2 className="text-brand-blue font-bold tracking-[0.3em] uppercase text-xs mb-6">
-                            Our Legacy
-                        </h2>
+
                         <h3 className="text-4xl md:text-6xl font-bold text-white mb-10 leading-tight">
                             Excellence in Every bit <br /> <span className="gradient-text">Square Foot</span>
                         </h3>
